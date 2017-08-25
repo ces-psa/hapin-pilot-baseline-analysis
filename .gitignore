@@ -1,0 +1,11 @@
+# Ignore Rstudio project files
+.Rproj.user
+
+# Ignore data
+data
+
+# Ignore documents
+*.doc*
+*.ppt*
+*.pdf
+*.png
